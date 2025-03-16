@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://backend.kartik3344.workers.dev"
